@@ -1,2 +1,3 @@
 def display_rainbow(colors)
-  print "R: red, "
+  print "R:"+colors[0]+","
+  print "R:"+colors[0]+","
